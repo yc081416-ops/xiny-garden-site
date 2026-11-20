@@ -1,0 +1,518 @@
+{
+  "source": "Locally edited field recordings and Foley. Original XINY music and fictional cues are retained.",
+  "license": "See each source attribution. Original XINY assets remain CC0-1.0.",
+  "usage": "Garden ambience, music and interaction sound effects",
+  "music": "Window Light — original slow felt-piano loop",
+  "tracks": [
+    {
+      "file": "amb-cabin.mp3",
+      "bytes": 340964,
+      "seconds": 34.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -14.5,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "fire",
+        "glass"
+      ]
+    },
+    {
+      "file": "amb-entry.mp3",
+      "bytes": 330884,
+      "seconds": 33.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -13.9,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "grass",
+        "cricket"
+      ]
+    },
+    {
+      "file": "amb-forest.mp3",
+      "bytes": 311084,
+      "seconds": 31.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -15.3,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "cricket",
+        "grass"
+      ]
+    },
+    {
+      "file": "amb-glowtrail.mp3",
+      "bytes": 340964,
+      "seconds": 34.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -14.6,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "cricket",
+        "lake"
+      ]
+    },
+    {
+      "file": "amb-greenhouse.mp3",
+      "bytes": 401084,
+      "seconds": 40.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -12.8,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "glass",
+        "rain"
+      ]
+    },
+    {
+      "file": "amb-lake.mp3",
+      "bytes": 370844,
+      "seconds": 37.0,
+      "rmsDbFS": -30.5,
+      "peakDbFS": -11.1,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "lake",
+        "grass"
+      ]
+    },
+    {
+      "file": "amb-observatory.mp3",
+      "bytes": 351044,
+      "seconds": 35.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -13.7,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "grass",
+        "cricket"
+      ]
+    },
+    {
+      "file": "amb-rainbed.mp3",
+      "bytes": 410804,
+      "seconds": 41.0,
+      "rmsDbFS": -30.1,
+      "peakDbFS": -16.8,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "rain",
+        "grass"
+      ]
+    },
+    {
+      "file": "music.mp3",
+      "bytes": 327020,
+      "seconds": 40.8
+    },
+    {
+      "file": "sfx-bloom.mp3",
+      "bytes": 11756,
+      "seconds": 1.85
+    },
+    {
+      "file": "sfx-book-close.mp3",
+      "bytes": 8108,
+      "seconds": 0.91,
+      "rmsDbFS": -33.7,
+      "peakDbFS": -9.4,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "book"
+      ]
+    },
+    {
+      "file": "sfx-book-open.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "rmsDbFS": -30.9,
+      "peakDbFS": -9.4,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "book"
+      ]
+    },
+    {
+      "file": "sfx-branch.mp3",
+      "bytes": 8972,
+      "seconds": 1.02,
+      "rmsDbFS": -31.2,
+      "peakDbFS": -9.5,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "branch-real"
+      ]
+    },
+    {
+      "file": "sfx-cast.mp3",
+      "bytes": 11756,
+      "seconds": 1.85
+    },
+    {
+      "file": "sfx-chime.mp3",
+      "bytes": 11468,
+      "seconds": 1.82
+    },
+    {
+      "file": "sfx-collect.mp3",
+      "bytes": 4076,
+      "seconds": 0.42,
+      "rmsDbFS": -29.9,
+      "peakDbFS": -9.5,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "metal"
+      ]
+    },
+    {
+      "file": "sfx-constellation.mp3",
+      "bytes": 11756,
+      "seconds": 1.85
+    },
+    {
+      "file": "sfx-dew.mp3",
+      "bytes": 5804,
+      "seconds": 0.63,
+      "rmsDbFS": -28.2,
+      "peakDbFS": -9.6,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "drop"
+      ]
+    },
+    {
+      "file": "sfx-drawer-close.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "rmsDbFS": -27.4,
+      "peakDbFS": -10.6,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "drawer-shut"
+      ]
+    },
+    {
+      "file": "sfx-drawer.mp3",
+      "bytes": 7532,
+      "seconds": 0.83,
+      "rmsDbFS": -27.5,
+      "peakDbFS": -10.8,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "drawer-open"
+      ]
+    },
+    {
+      "file": "sfx-filter.mp3",
+      "bytes": 2972,
+      "seconds": 0.4,
+      "source": "Restored original XINY procedural material cue",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "sfx-gate.mp3",
+      "bytes": 10700,
+      "seconds": 1.23,
+      "rmsDbFS": -27.9,
+      "peakDbFS": -9.9,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "gate"
+      ]
+    },
+    {
+      "file": "sfx-guide.mp3",
+      "bytes": 4988,
+      "seconds": 0.74
+    },
+    {
+      "file": "sfx-jar.mp3",
+      "bytes": 4940,
+      "seconds": 0.54,
+      "rmsDbFS": -27.4,
+      "peakDbFS": -12.3,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pot"
+      ]
+    },
+    {
+      "file": "sfx-lamp.mp3",
+      "bytes": 1964,
+      "seconds": 0.22,
+      "source": "Restored original XINY procedural material cue",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "sfx-mechanism.mp3",
+      "bytes": 4844,
+      "seconds": 0.72,
+      "source": "Restored original XINY procedural material cue",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "sfx-page-back.mp3",
+      "bytes": 5804,
+      "seconds": 0.63,
+      "rmsDbFS": -30.0,
+      "peakDbFS": -10.5,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pages-back"
+      ]
+    },
+    {
+      "file": "sfx-page.mp3",
+      "bytes": 4364,
+      "seconds": 0.46,
+      "rmsDbFS": -29.4,
+      "peakDbFS": -12.3,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pages"
+      ]
+    },
+    {
+      "file": "sfx-point.mp3",
+      "bytes": 3404,
+      "seconds": 0.48
+    },
+    {
+      "file": "sfx-rain.mp3",
+      "bytes": 27116,
+      "seconds": 3.3,
+      "rmsDbFS": -27.3,
+      "peakDbFS": -9.9,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "glass"
+      ]
+    },
+    {
+      "file": "sfx-ripple.mp3",
+      "bytes": 10700,
+      "seconds": 1.26,
+      "rmsDbFS": -27.6,
+      "peakDbFS": -10.2,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "lake"
+      ]
+    },
+    {
+      "file": "sfx-scope.mp3",
+      "bytes": 6092,
+      "seconds": 0.68,
+      "rmsDbFS": -29.7,
+      "peakDbFS": -9.5,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "metal"
+      ]
+    },
+    {
+      "file": "sfx-seed.mp3",
+      "bytes": 3212,
+      "seconds": 0.31,
+      "rmsDbFS": -34.1,
+      "peakDbFS": -18.0,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pot"
+      ]
+    },
+    {
+      "file": "sfx-tap.mp3",
+      "bytes": 2636,
+      "seconds": 0.22,
+      "rmsDbFS": -34.5,
+      "peakDbFS": -12.4,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "book"
+      ]
+    },
+    {
+      "file": "sfx-unlock.mp3",
+      "bytes": 11756,
+      "seconds": 1.85
+    },
+    {
+      "file": "sfx-water.mp3",
+      "bytes": 11276,
+      "seconds": 1.33,
+      "rmsDbFS": -27.6,
+      "peakDbFS": -10.0,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pour"
+      ]
+    },
+    {
+      "file": "sfx-wind.mp3",
+      "bytes": 25100,
+      "seconds": 3.06,
+      "rmsDbFS": -32.1,
+      "peakDbFS": -18.9,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "grass"
+      ]
+    }
+  ],
+  "editedSources": {
+    "book": {
+      "title": "Turning Pages",
+      "creator": "vartian",
+      "source": "https://freesound.org/people/vartian/sounds/425467/",
+      "file": "book.mp3",
+      "license": "CC0-1.0",
+      "bytes": 972720
+    },
+    "brass": {
+      "file": "brass.ogg",
+      "title": "Door knocker audio.ogg",
+      "creator": "Source credits on Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Door_knocker_audio.ogg",
+      "bytes": 30423
+    },
+    "cricket": {
+      "title": "Night Ambience",
+      "creator": "brunoboselli",
+      "source": "https://freesound.org/people/brunoboselli/sounds/459675/",
+      "file": "cricket.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 1037184
+    },
+    "drawer-open": {
+      "title": "opening and closing wooden drawer 1",
+      "creator": "FOSSarts",
+      "source": "https://freesound.org/people/FOSSarts/sounds/740297/",
+      "file": "drawer-open.mp3",
+      "license": "CC0-1.0",
+      "bytes": 104328
+    },
+    "drawer-shut": {
+      "file": "drawer-shut.wav",
+      "title": "Close drawer 3 (Gravity Sound).wav",
+      "creator": "Gravity Sound",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Close_drawer_3_%28Gravity_Sound%29.wav",
+      "bytes": 530988
+    },
+    "drop": {
+      "title": "Water dribble",
+      "creator": "Rvgerxini",
+      "source": "https://freesound.org/people/Rvgerxini/sounds/485041/",
+      "file": "drop.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 19831
+    },
+    "fire": {
+      "title": "Fireplace Fire Crackling",
+      "creator": "RyanKingArt",
+      "source": "https://freesound.org/people/RyanKingArt/sounds/717579/",
+      "file": "fire.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 1126813
+    },
+    "gate": {
+      "title": "solid wood armoire opening 1",
+      "creator": "FOSSarts",
+      "source": "https://freesound.org/people/FOSSarts/sounds/740190/",
+      "file": "gate.mp3",
+      "license": "CC0-1.0",
+      "bytes": 67680
+    },
+    "glass": {
+      "title": "Rain_Hitting_Window_9",
+      "creator": "SignatureSoundsOrg",
+      "source": "https://freesound.org/people/SignatureSoundsOrg/sounds/869851/",
+      "file": "glass.mp3",
+      "license": "CC0-1.0",
+      "bytes": 1480078
+    },
+    "grass": {
+      "title": "Dry grass rustling in the wind, in the desert of Chile",
+      "creator": "felix.blume",
+      "source": "https://freesound.org/people/felix.blume/sounds/146436/",
+      "file": "grass.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 1417216,
+      "note": "First portion of permitted MP3 preview, decoded for the required excerpt."
+    },
+    "lake": {
+      "title": "Water lapping at shore on McClintock Bay",
+      "creator": "SoundsLikeYukon",
+      "source": "https://freesound.org/people/SoundsLikeYukon/sounds/758708/",
+      "file": "lake.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 1161811
+    },
+    "metal": {
+      "title": "slide_small_2",
+      "creator": "blaukreuz",
+      "source": "https://freesound.org/people/blaukreuz/sounds/459648/",
+      "file": "metal.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 38496
+    },
+    "pages": {
+      "title": "Page Turn (1)",
+      "creator": "OwlStorm",
+      "source": "https://freesound.org/people/OwlStorm/sounds/151220/",
+      "file": "pages.mp3",
+      "license": "CC0-1.0",
+      "bytes": 15603
+    },
+    "pages-back": {
+      "title": "Page Turn (2)",
+      "creator": "OwlStorm",
+      "source": "https://freesound.org/people/OwlStorm/sounds/151221/",
+      "file": "pages-back.mp3",
+      "license": "CC0-1.0",
+      "bytes": 43518
+    },
+    "pot": {
+      "file": "pot.ogg",
+      "title": "Chiming pottery.ogg",
+      "creator": "qubodup",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Chiming_pottery.ogg",
+      "bytes": 677209
+    },
+    "pour": {
+      "title": "Water Pouring",
+      "creator": "qubodup",
+      "source": "https://freesound.org/people/qubodup/sounds/210429/",
+      "file": "pour.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 692160
+    },
+    "rain": {
+      "file": "rain.ogg",
+      "title": "Rain (1).ogg",
+      "creator": "ezwa",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Rain_%281%29.ogg",
+      "bytes": 585522
+    },
+    "branch-real": {
+      "file": "branch-real.mp3",
+      "source": "https://freesound.org/people/o_ciz/sounds/475425/",
+      "creator": "o_ciz",
+      "license": "CC0-1.0",
+      "title": "Tree branch_1(leaves, rustle).WAV",
+      "bytes": 1875968,
+      "note": "Licensed preview first portion; selected excerpt is fully decoded."
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "purpose": "XG-008A material Foley; local edited recordings, not microphone input",
+  "tracks": [
+    {
+      "file": "sfx-curtain.mp3",
+      "bytes": 9260,
+      "seconds": 1.05,
+      "rmsDbFS": -32.3,
+      "peakDbFS": -11.7,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "cloth"
+      ],
+      "sourceAttribution": {
+        "title": "Blanket Movement 6",
+        "creator": "OwlStorm / Ashe Kirk",
+        "source": "https://freesound.org/people/OwlStorm/sounds/320144/",
+        "download": "https://cdn.freesound.org/previews/320/320144_140737-hq.mp3",
+        "license": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "file": "cloth.mp3",
+        "bytes": 29429
+      }
+    },
+    {
+      "file": "sfx-window-open.mp3",
+      "bytes": 9548,
+      "seconds": 1.1,
+      "rmsDbFS": -32.4,
+      "peakDbFS": -12.0,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "gate"
+      ],
+      "sourceAttribution": {
+        "title": "solid wood armoire opening 1",
+        "creator": "FOSSarts",
+        "source": "https://freesound.org/people/FOSSarts/sounds/740190/",
+        "file": "gate.mp3",
+        "license": "CC0-1.0",
+        "bytes": 67680
+      }
+    },
+    {
+      "file": "sfx-window-close.mp3",
+      "bytes": 7532,
+      "seconds": 0.85,
+      "rmsDbFS": -34.0,
+      "peakDbFS": -17.3,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "gate"
+      ],
+      "sourceAttribution": {
+        "title": "solid wood armoire opening 1",
+        "creator": "FOSSarts",
+        "source": "https://freesound.org/people/FOSSarts/sounds/740190/",
+        "file": "gate.mp3",
+        "license": "CC0-1.0",
+        "bytes": 67680
+      }
+    },
+    {
+      "file": "sfx-tea-leaf.mp3",
+      "bytes": 6380,
+      "seconds": 0.7,
+      "rmsDbFS": -32.6,
+      "peakDbFS": -19.0,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "grass"
+      ],
+      "sourceAttribution": {
+        "title": "Dry grass rustling in the wind, in the desert of Chile",
+        "creator": "felix.blume",
+        "source": "https://freesound.org/people/felix.blume/sounds/146436/",
+        "file": "grass.mp3",
+        "license": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "bytes": 1417216,
+        "note": "First portion of permitted MP3 preview, decoded for the required excerpt."
+      }
+    },
+    {
+      "file": "sfx-tea-pour.mp3",
+      "bytes": 17036,
+      "seconds": 2.05,
+      "rmsDbFS": -32.4,
+      "peakDbFS": -12.7,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pour"
+      ],
+      "sourceAttribution": {
+        "title": "Water Pouring",
+        "creator": "qubodup",
+        "source": "https://freesound.org/people/qubodup/sounds/210429/",
+        "file": "pour.mp3",
+        "license": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "bytes": 692160
+      }
+    },
+    {
+      "file": "sfx-ceramic.mp3",
+      "bytes": 6092,
+      "seconds": 0.65,
+      "rmsDbFS": -32.3,
+      "peakDbFS": -17.2,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pot"
+      ],
+      "sourceAttribution": {
+        "file": "pot.ogg",
+        "title": "Chiming pottery.ogg",
+        "creator": "qubodup",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiming_pottery.ogg",
+        "bytes": 677209
+      }
+    },
+    {
+      "file": "sfx-pot-move.mp3",
+      "bytes": 7244,
+      "seconds": 0.8,
+      "rmsDbFS": -32.8,
+      "peakDbFS": -20.1,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "pot"
+      ],
+      "sourceAttribution": {
+        "file": "pot.ogg",
+        "title": "Chiming pottery.ogg",
+        "creator": "qubodup",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiming_pottery.ogg",
+        "bytes": 677209
+      }
+    },
+    {
+      "file": "sfx-soil.mp3",
+      "bytes": 7244,
+      "seconds": 0.8,
+      "rmsDbFS": -32.8,
+      "peakDbFS": -19.1,
+      "kind": "edited field recordings / foley",
+      "sources": [
+        "grass"
+      ],
+      "sourceAttribution": {
+        "title": "Dry grass rustling in the wind, in the desert of Chile",
+        "creator": "felix.blume",
+        "source": "https://freesound.org/people/felix.blume/sounds/146436/",
+        "file": "grass.mp3",
+        "license": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "bytes": 1417216,
+        "note": "First portion of permitted MP3 preview, decoded for the required excerpt."
+      }
+    }
+  ]
+}
